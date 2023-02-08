@@ -1,8 +1,7 @@
 # 2d-dodge-the-creeps
 
 ## The game
-This game was maded with Godot 4 RC 1, but i thing it was simple to run in other releases. The name in the original tutorial was Dodge the Creeps, but i think in another name to release they.
-The core mechanic and core gameplay loop are completed, but there are so much to improve:
+This game was made with Godot 4 RC 1, but I think it is simple to run on other releases. The name in the original tutorial is 'Dodge the Creeps', but I have to change it to another name for the release. The core mechanics and gameplay loop are complete, but there is still much to improve:
 
 * UI
 * * Options
